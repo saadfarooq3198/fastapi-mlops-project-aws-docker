@@ -1,14 +1,4 @@
 {
-    "P001": {
-        "name": "Ananya Verma",
-        "city": "Guwahati",
-        "age": 28,
-        "gender": "female",
-        "height": 1.65,
-        "weight": 90.0,
-        "bmi": 33.06,
-        "verdict": "Obese"
-    },
     "P002": {
         "name": "Ravi Mehta",
         "city": "Mumbai",
@@ -60,13 +50,13 @@
         "verdict": "Underweight"
     },
     "P009": {
-        "name": "Hamza",
-        "city": "Rawalpindi",
-        "age": 29,
+        "name": "Khalid",
+        "city": "Berlin",
+        "age": 1,
         "gender": "male",
-        "height": 5.8,
-        "weight": 60.7,
-        "bmi": 1.8,
-        "verdict": "Underweight"
+        "height": 1.0,
+        "weight": 299.0,
+        "bmi": 299.0,
+        "verdict": "Obese"
     }
 }
