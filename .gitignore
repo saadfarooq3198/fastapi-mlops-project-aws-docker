@@ -1,4 +1,5 @@
 # Virtual environment folders
+myvenv/
 Include/
 Lib/
 Scripts/
@@ -17,5 +18,3 @@ __pycache__/
 .vscode/
 .idea/
 
-# Logs
-*.log
