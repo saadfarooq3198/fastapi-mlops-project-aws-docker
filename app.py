@@ -76,6 +76,10 @@ class UserInput(BaseModel):
 
 
 # Api end point
+@app.get("/")
+def home():
+    return {"message": "ML Model API is running"}
+
 
 @app.post("/predict")
 def predict_premium(data: UserInput):
